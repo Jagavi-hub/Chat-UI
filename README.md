@@ -16,3 +16,6 @@ This project focuses on layout design, UI aesthetics, and responsive structure, 
 
 - HTML 
 - CSS
+
+## Project Link
+https://jagavi-hub.github.io/Chat-UI/
